@@ -15,8 +15,8 @@ Specifically, the project consists of the following parts:
 
 
 <br>
-  Below are the folders and files created for this project: <br>
-<br>
+  Below are the folders and files created for this project: 
+  <br>
 
 * **Data**: This folder contains original data we obtained from *dunnhumby* as well as the data we transformed for the analyses  
   + dunnhumby _Breakfast-at-the-Frat: original data (i.e., Store, Products, Transaction datasets) and descriptions
