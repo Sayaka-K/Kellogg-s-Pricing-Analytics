@@ -1,7 +1,7 @@
 # Kellogg-s-Pricing-Analytics
 <br>
 The aim of this project is to leverage data and suggest "more promising" prices for Kellogg's cereals that would not only solidify Kellog's market dominance but also lead to increased profits.<br>
-
+<br>
 Specifically, the project consists of the following parts:  
 
 * **Visualizations**: We explore the data using visualization tools to study the pricing behaviors for the Kellog's cereals
@@ -15,8 +15,8 @@ Specifically, the project consists of the following parts:
 
 
 <br>
-  Below are the folders and files created for this project: 
-  <br>
+Below are the folders and files created for this project: 
+<br>
 
 * **Data**: This folder contains original data we obtained from *dunnhumby* as well as the data we transformed for the analyses  
   + dunnhumby _Breakfast-at-the-Frat: original data (i.e., Store, Products, Transaction datasets) and descriptions
