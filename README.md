@@ -15,7 +15,7 @@ Specifically, the project consists of the following parts:
 
 
 <br>
-  Below are the folders and files created for this project: 
+  Below are the folders and files created for this project: <br>
 <br>
 
 * **Data**: This folder contains original data we obtained from *dunnhumby* as well as the data we transformed for the analyses  
@@ -23,7 +23,7 @@ Specifically, the project consists of the following parts:
   + transaction_cereal.csv: subseted from Transaction dataset to only contain data for cereals
   + cereal_merged_df.csv: merged dataset of Store, Products, and subsetted Transaction 
   + cereal_Kellogg_Month.csv: populated time indicator columns to use in visualizations  
-<br>
+
 
 * **Visualization**: This folder contains scripts that perform exploratory data analysis and visualizations
 
